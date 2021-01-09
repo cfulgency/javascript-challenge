@@ -65,6 +65,14 @@ body {
   margin-top: 10px;
 }
 
+.panel-body {
+  text-align: center;
+}
+
+.panel-heading {
+  text-align: center;
+}
+
 select {
   display: block;
   width: 100%;
